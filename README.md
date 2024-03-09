@@ -1,4 +1,6 @@
 **Project**  :  Help Women-owned, and minority-owned businesses receive funding for their projects
+                      
+                      
                       Safiya Carroll , Alex Furgeson , Spencer Chavez, and Aaron Masek
 
 **Description**
