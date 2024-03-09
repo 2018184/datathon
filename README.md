@@ -21,6 +21,7 @@ The necessary libraries for this code to run properly are as follows:
 Data
 We are using data from the US Government, specifically contracts from the Environmental Protection Agency that is available on https://www.usaspending.gov/download_center/award_data_archive.
 
+Our dataset is available here: https://lmu.box.com/s/1zjnmkxdp8qlbqme0b0cs8rnbjflc7vh.
 
 
 Acknowledgements
